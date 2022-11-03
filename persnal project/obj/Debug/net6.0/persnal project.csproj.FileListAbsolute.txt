@@ -1,0 +1,15 @@
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.csproj.AssemblyReference.cache
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.AssemblyInfoInputs.cache
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.AssemblyInfo.cs
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.csproj.CoreCompileInputs.cache
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\bin\Debug\net6.0\persnal project.exe
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\bin\Debug\net6.0\persnal project.deps.json
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\bin\Debug\net6.0\persnal project.runtimeconfig.json
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\bin\Debug\net6.0\persnal project.dll
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\bin\Debug\net6.0\persnal project.pdb
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.dll
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\refint\persnal project.dll
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.pdb
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\persnal project.genruntimeconfig.cache
+C:\Users\willigav\Downloads\gavin williams\introtoprogramminggavinwilliams\persnal project\persnal project\obj\Debug\net6.0\ref\persnal project.dll
